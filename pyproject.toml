@@ -1,0 +1,11 @@
+[project]
+name = "mcp-log-fixer"
+version = "0.1.0"
+description = "Utility to prevent MCP server from clobbering application logging configuration."
+readme = "README.md"
+authors = [{ name = "AutoScout" }]
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
